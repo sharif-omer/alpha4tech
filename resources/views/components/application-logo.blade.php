@@ -1,0 +1,1 @@
+<img src="{{asset('assets/img/alphalogo2.png')}}" width="100px" alt="">
